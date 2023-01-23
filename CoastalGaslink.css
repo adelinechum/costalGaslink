@@ -1,0 +1,226 @@
+:root{
+
+--text-left-1: 50px;
+/* --text-left-2: 1000px; */
+
+}
+
+#container {
+	width: 80%;
+	/* left: 20%; */
+	height: 80%;
+	/* top: 10%; */
+	top: 50%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	position: fixed;
+	position: 100px;
+	/* object-fit: fill; */
+	background-image: url("conflict_urbanism_sp2020/images/CoastalGaslink/Cover.jpg");
+	background-repeat: no-repeat;
+	background-size: contain;
+	display: inline-block;
+}
+
+#title{
+	font-size: 24px;
+	position: absolute;
+	top: -10%;
+	width: 100%;
+	left: 0;
+	right: 0;
+	text-align: left;
+	bottom: : 0%;
+  letter-spacing: 1px;
+  line-height: 1;
+	font-weight: 400;
+}
+
+#footer{
+	font-size: 17px;
+	position: fixed;
+	top: 100%;
+	text-align: center;
+	font-style: italic;
+	/* top: -7.5%; */
+  letter-spacing: 1px;
+  line-height: 1;
+	font-weight: 400;
+}
+
+#names{
+	position: absolute;
+	font-size: 17px;
+	top: -5%;
+}
+
+.container1{
+	height: 1000px;
+	width: 1000px;
+}
+
+.space_container{
+	position: relative;
+	top: 18000px;
+	height: 350px;
+}
+
+body {
+  font: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  color: #111111;
+	-webkit-text-size-adjust: 100%;
+-webkit-font-feature-settings: "kern" 1;
+-moz-font-feature-settings: "kern" 1;
+-o-font-feature-settings: "kern" 1;
+font-feature-settings: "kern" 1;
+font-kerning: normal;
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+
+.text{
+	position: absolute;
+	padding: 7px;
+	max-width: 400px;
+	background-color: black;
+	border-radius: 5px;
+	color: white;
+	font-family: 400 14px/1.5 'Source Sans Pro',"Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+	-webkit-text-size-adjust: 100%;
+	font-weight: regular;
+	opacity: 85%;
+	font-size: 12px;
+}
+
+.references{
+	position: relative;
+	top: 40500px;
+	max-width: 80%;
+	left: 15%;
+	margin: 0;
+	min-height: 500px;
+	margin-bottom: 100px;
+}
+
+.reference{
+	font-size: 17px;
+	font-style: normal;
+	letter-spacing: 1px;
+	line-height: 1;
+	font-weight: 400;
+}
+
+.references h{
+	font-style: italic;
+	font-size: 25px;
+}
+
+#text_1{
+right: var(--text-left-1);
+top: 1500px;
+}
+#text_2{
+right: var(--text-left-1);
+top: 3000px;
+}
+#text_3{
+right: var(--text-left-1);
+top: 4500px;
+}
+#text_4{
+right: var(--text-left-1);
+top: 6000px;
+}
+#text_5{
+right: var(--text-left-1);
+top: 7500px;
+}
+#text_6{
+right: var(--text-left-1);
+top: 9000px;
+}
+#text_7{
+right: var(--text-left-1);
+top: 10500px;
+}
+#text_8{
+right: var(--text-left-1);
+top: 12000px;
+}
+#text_9{
+right: var(--text-left-1);
+top: 13500px;
+}
+#text_10{
+right: var(--text-left-1);
+top: 15000px;
+}
+#text_11{
+right: var(--text-left-1);
+top: 16500px;
+}
+#text_12{
+right: var(--text-left-1);
+top: 18000px;
+}
+#text_13{
+right: var(--text-left-1);
+top: 19500px;
+}
+#text_14{
+right: var(--text-left-1);
+top: 21000px;
+}
+#text_15{
+right: var(--text-left-1);
+top: 22500px;
+}
+#text_16{
+right: var(--text-left-1);
+top: 24000px;
+}
+#text_17{
+right: var(--text-left-1);
+top: 25500px;
+}
+#text_18{
+right: var(--text-left-1);
+top: 27000px;
+}
+#text_19{
+right: var(--text-left-1);
+top: 28500px;
+}
+#text_20{
+right: var(--text-left-1);
+top: 30000px;
+}
+#text_21{
+right: var(--text-left-1);
+top: 31500px;
+}
+#text_22{
+right: var(--text-left-1);
+top: 33000px;
+}
+#text_23{
+right: var(--text-left-1);
+top: 34500px;
+}
+#text_24{
+right: var(--text-left-1);
+top: 36000px;
+}
+#text_25{
+right: var(--text-left-1);
+top: 37500px;
+}
+#text_26{
+right: var(--text-left-1);
+top: 39000px;
+}
+#text_27{
+right: var(--text-left-1);
+top: 40500px;
+}
